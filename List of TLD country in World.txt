@@ -68,7 +68,7 @@
 .dk
 .dj
 .dm
-do
+.do
 .tl
 .tp
 .ec
